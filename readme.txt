@@ -1,2 +1,2 @@
-Git is a versinon control system.
+Git is a distributed versinon control system.
 Git is free software.
